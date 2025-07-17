@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="74" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="73" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -100,6 +100,7 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 暂无 | [2025年中国科学院动物研究所2026年接收推荐免试生（直博生）招生简章](http://www.ioz.cas.cn/gb2018/xwdt/tzgg/202507/t20250710_7884886.html) |
+| 2025-09-25 | [2025年中国科学院昆明植物研究所2026年接收推荐免试入学硕士生（直博生）办法](https://kib.cas.cn/yjsjy/zs/sszs/202507/t20250715_7889964.html) |
 
 ## 📝 数据来源
 

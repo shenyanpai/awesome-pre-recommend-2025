@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="74" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="73" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -145,8 +145,8 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 暂无 | [2025年苏州大学商学院推免研究生预报名通知](https://gsas.yjs.suda.edu.cn/ssxly/TXlIZWFydFdpbGxHb09ueGx5L3NxeXhrZmN4IzIxNThhZTQ1LWIzMmUtNDlhOC1hMDJjLWEyNjQ2MmM5NTVmYg__) |
 | 2025-09-21 | [2025年苏州大学金融工程研究中心关于接收2026级推荐免试研究生预报名的通知](https://fineng.suda.edu.cn/3d/b9/c12344a671161/page.htm) |
+| 2025-09-12 | [2025年苏州大学商学院推免研究生预报名通知](https://gsas.yjs.suda.edu.cn/ssxly/TXlIZWFydFdpbGxHb09ueGx5L3NxeXhrZmN4IzIxNThhZTQ1LWIzMmUtNDlhOC1hMDJjLWEyNjQ2MmM5NTVmYg__) |
 
 <div align="center">
 <h3>华东理工大学</h3>

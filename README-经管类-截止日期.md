@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="74" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="73" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -47,12 +47,12 @@
 
 | 截止时间 | 学校名称 | 通知 |
 |:------------:|:---------|:---------|
-| 暂无 | 苏州大学 | [2025年苏州大学商学院推免研究生预报名通知](https://gsas.yjs.suda.edu.cn/ssxly/TXlIZWFydFdpbGxHb09ueGx5L3NxeXhrZmN4IzIxNThhZTQ1LWIzMmUtNDlhOC1hMDJjLWEyNjQ2MmM5NTVmYg__) |
 | 暂无 | 华东理工大学 | [2025年华东理工大学商学院金融硕士项目MF2026年接收推荐免试研究生预报名及线上说明会的通知](https://mp.weixin.qq.com/s/VRm-c9AjQ9BzCOYzTTEq8g) |
 | 2025-09-21 | 苏州大学 | [2025年苏州大学金融工程研究中心关于接收2026级推荐免试研究生预报名的通知](https://fineng.suda.edu.cn/3d/b9/c12344a671161/page.htm) |
 | 2025-09-20 | 哈尔滨工业大学 | [2025年哈尔滨工业大学（威海） 经济管理学院2026年推免生报名通知](https://sem.hitwh.edu.cn/2025/0707/c535a202090/page.htm) |
 | 2025-09-20 | 西安电子科技大学 | [2025年西安电子科技大学经济与管理学院2026年推荐免试研究生招生预报名通知](https://sem.xidian.edu.cn/info/1536/12171.htm) |
 | 2025-09-12 | 哈尔滨工业大学 | [2025年哈尔滨工业大学商学院 2026年接收优秀应届本科毕业生免试攻读研究生报名通知](https://hbs.hit.edu.cn/info/1016/3378.htm) |
+| 2025-09-12 | 苏州大学 | [2025年苏州大学商学院推免研究生预报名通知](https://gsas.yjs.suda.edu.cn/ssxly/TXlIZWFydFdpbGxHb09ueGx5L3NxeXhrZmN4IzIxNThhZTQ1LWIzMmUtNDlhOC1hMDJjLWEyNjQ2MmM5NTVmYg__) |
 | 2025-09-02 | 哈尔滨工业大学 | [2025年哈尔滨工业大学经济与管理学院2026年接收优秀应届本科毕业生免试攻读研究生报名通知](http://som.hit.edu.cn/info/1011/23754.htm) |
 | 2025-08-31 | 西南财经大学 | [2025年西南财经大学财政税务学院2026级推免生（含直博生）接收工作通知](https://yzcx.swufe.edu.cn/chaxun/yzb/tms/2026/01bm/2026tmsxz.html) |
 | 2025-08-31 | 西南财经大学 | [2025年西南财经大学经济学院2026级推免生（含直博生）接收工作通知](https://yzcx.swufe.edu.cn/chaxun/yzb/tms/2026/01bm/2026tmsxz.html) |
