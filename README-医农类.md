@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="70" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="67" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -117,7 +117,9 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 暂无 | [2025年中国农业科学院北京畜牧兽医研究所2026年接收推荐免试研究生（含直博生）公告](https://ias.caas.cn/xwzx/tzgg/83f8f50bb9e9411d92b660379a778631.htm) |
 | 2025-09-18 | [2025年中国农业科学院作物科学研究所2026年招收推荐免试研究生（含直博生）公告](http://icscaas.com.cn/xwdt/tzgg/580a0a55a5b140f29be2c4c6a9753b9a.htm) |
+| 2025-08-31 | [2025年中国农业科学院植物保护研究所2026年招收推荐免试研究生含直博生公告](http://www.ippcaas.cn/zszp/8e6182c092c941b8a7c773fa592b9920.htm) |
 
 ## 📝 数据来源
 
