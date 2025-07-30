@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="63" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="60" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -51,10 +51,10 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-07-28 | [2025年清华大学基础医学院2026年博士研究生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/860830fd-923f-45dc-88f3-9370391812fc?yxsdm=501) |
-| 2025-07-28 | [2025年清华大学临床医学院2026年卓越医师（全日制）专业博士项目招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/e917ee0c-25b8-4a93-9594-272eb3d2efd3?yxsdm=405) |
-| 2025-07-28 | [2025年清华大学临床医学院2026年临床医学学术学位博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/745c2224-aaed-4425-83af-c57c1c60c7e2?yxsdm=405) |
-| 2025-07-28 | [2025年清华大学医学院卓越学者型医师项目2026年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cffdc817-a3ca-4566-9cc7-457fe0d792b4?yxsdm=500) |
+| ~~2025-07-28~~ | [2025年清华大学基础医学院2026年博士研究生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/860830fd-923f-45dc-88f3-9370391812fc?yxsdm=501) |
+| ~~2025-07-28~~ | [2025年清华大学临床医学院2026年卓越医师（全日制）专业博士项目招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/e917ee0c-25b8-4a93-9594-272eb3d2efd3?yxsdm=405) |
+| ~~2025-07-28~~ | [2025年清华大学临床医学院2026年临床医学学术学位博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/745c2224-aaed-4425-83af-c57c1c60c7e2?yxsdm=405) |
+| ~~2025-07-28~~ | [2025年清华大学医学院卓越学者型医师项目2026年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cffdc817-a3ca-4566-9cc7-457fe0d792b4?yxsdm=500) |
 
 <div align="center">
 <h3>中山大学</h3>
@@ -90,6 +90,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2025-09-05 | [2025年厦门大学公共卫生学院关于2026年招收推荐免试研究生（含直博生）预报名的通知](https://sph.xmu.edu.cn/info/1311/63595.htm) |
 | 2025-08-03 | [2025年厦门大学医学院关于2026年推荐优秀应届本科毕业生免试攻读研究生工作的通知](https://med.xmu.edu.cn/info/1192/66133.htm) |
 
 <div align="center">
@@ -101,9 +102,9 @@
 | 暂无 | [2025年中国农业大学动物科学技术学院2026年接收优秀应届本科毕业生免试攻读研究生报名的通知](https://cast1.cau.edu.cn/art/2025/7/9/art_44406_1075251.html) |
 | 暂无 | [2025年中国农业大学草业科学与技术学院2026年接收推荐免试研究生工作实施细则](https://cgst.cau.edu.cn/art/2025/7/18/art_49907_1076081.html) |
 | 暂无 | [2025年中国农业大学动物医学院2026年接收优秀应届本科毕业生免试攻读研究生报名的通知](https://cvm.cau.edu.cn/art/2025/7/8/art_41942_1075051.html) |
-| 2025-08-10 | [2025年中国农业大学园艺学院2026年接收推荐免试研究生工作实施细则](https://yyxy.cau.edu.cn/art/2025/7/25/art_3227_1076962.html) |
-| 2025-08-10 | [2025年中国农业大学农学院2026年接收推荐免试研究生工作实施细则](https://cab.cau.edu.cn/art/2025/7/25/art_48176_1076941.html) |
 | 2025-08-10 | [2025年中国农业大学草业科学与技术学院2026年接收优秀应届本科毕业生免试攻读研究生报名的通知](https://cgst.cau.edu.cn/art/2025/7/9/art_49907_1075165.html) |
+| 2025-08-10 | [2025年中国农业大学农学院2026年接收推荐免试研究生工作实施细则](https://cab.cau.edu.cn/art/2025/7/25/art_48176_1076941.html) |
+| 2025-08-10 | [2025年中国农业大学园艺学院2026年接收推荐免试研究生工作实施细则](https://yyxy.cau.edu.cn/art/2025/7/25/art_3227_1076962.html) |
 
 <div align="center">
 <h3>中国药科大学</h3>
