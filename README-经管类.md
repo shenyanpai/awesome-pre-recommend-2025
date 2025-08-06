@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="56" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="53" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -120,7 +120,7 @@
 | 2025-08-22 | [2025年南开大学旅游与服务学院2026年接收优秀应届本科毕业生免试攻读研究生预报名的通知](https://tas.nankai.edu.cn/info/1071/6340.htm) |
 | 2025-08-20 | [2025年南开大学经济学院2026年接收优秀应届本科毕业生免试攻读研究生预报名通知](https://economics.nankai.edu.cn/2025/0707/c16001a574961/page.htm) |
 | 2025-08-17 | [2025年南开大学南开泰康保险与精算研究院2026年接收优秀应届本科毕业生免试攻读研究生预报名通知](https://cias.nankai.edu.cn/info/1193/1326.htm) |
-| 2025-08-05 | [2025年南开大学金融学院2026年接收优秀应届本科毕业生免试攻读研究生预报名的通知](https://finance.nankai.edu.cn/2025/0715/c34620a575404/page.htm) |
+| ~~2025-08-05~~ | [2025年南开大学金融学院2026年接收优秀应届本科毕业生免试攻读研究生预报名的通知](https://finance.nankai.edu.cn/2025/0715/c34620a575404/page.htm) |
 
 <div align="center">
 <h3>厦门大学</h3>
@@ -194,10 +194,10 @@
 | 2025-08-31 | [2025年西南财经大学智慧经济科学研究中心2026级接收优秀应届本科毕业生推荐免试攻读研究生工作细则](https://ies.swufe.edu.cn/info/1451/3101.htm) |
 | 2025-08-31 | [2025年西南财经大学经济与管理研究院2026级推免生（含直博生）接收工作通知](https://yzcx.swufe.edu.cn/chaxun/yzb/tms/2026/01bm/2026tmsxz.html) |
 | 2025-08-31 | [2025年西南财经大学会计学院2026级推免生（含直博生）接收工作通知](https://yzcx.swufe.edu.cn/chaxun/yzb/tms/2026/01bm/2026tmsxz.html) |
+| 2025-08-31 | [2025年西南财经大学金融学院2026级推免生（含直博生）接收工作通知](https://yzcx.swufe.edu.cn/chaxun/yzb/tms/2026/01bm/2026tmsxz.html) |
 | 2025-08-31 | [2025年西南财经大学智慧经济科学研究中心2026级接收优秀应届本科毕业生推荐免试攻读研究生工作细则](https://ies.swufe.edu.cn/info/1451/3101.htm) |
 | 2025-08-31 | [2025年西南财经大学经济学院2026级推免生（含直博生）接收工作通知](https://yzcx.swufe.edu.cn/chaxun/yzb/tms/2026/01bm/2026tmsxz.html) |
 | 2025-08-31 | [2025年西南财经大学财政税务学院2026级推免生（含直博生）接收工作通知](https://yzcx.swufe.edu.cn/chaxun/yzb/tms/2026/01bm/2026tmsxz.html) |
-| 2025-08-31 | [2025年西南财经大学金融学院2026级推免生（含直博生）接收工作通知](https://yzcx.swufe.edu.cn/chaxun/yzb/tms/2026/01bm/2026tmsxz.html) |
 
 <div align="center">
 <h3>中央民族大学</h3>
@@ -205,8 +205,8 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-08-14 | [2025年中央民族大学管理学院2026年接收推荐免试研究生预报名的通知](https://mp.weixin.qq.com/s/ZTX4lrqfWTtTE0OIn1R9ow) |
 | 2025-08-14 | [2025年中央民族大学经济学院2026年接收推荐免试研究生（含直博生）的通知](https://eco.muc.edu.cn/info/1085/6937.htm) |
+| 2025-08-14 | [2025年中央民族大学管理学院2026年接收推荐免试研究生预报名的通知](https://mp.weixin.qq.com/s/ZTX4lrqfWTtTE0OIn1R9ow) |
 
 <div align="center">
 <h3>大连海事大学</h3>
