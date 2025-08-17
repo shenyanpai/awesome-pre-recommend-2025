@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="44" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="42" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -230,8 +230,17 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2025-09-15 | [2025年大连理工大学外国语学院2026年接收推荐免试研究生 预报名开放通知](https://mp.weixin.qq.com/s/zBe5RQEJYQ8Tq1GOxXn_Vg) |
+| 2025-09-14 | [2025年大连理工大学马克思主义学院2026年接收推荐免试研究生预报名开放通知](https://marx.dlut.edu.cn/info/1008/23011.htm) |
 | 2025-08-29 | [2025年大连理工大学公共管理学院接收2026年推荐免试研究生预报名系统开放的通知](https://spap.dlut.edu.cn/info/1124/8795.htm) |
 | 2025-08-25 | [2025年大连理工大学人文学院2026年接收推荐免试研究生预报名开放通知](https://fhss.dlut.edu.cn/info/1411/35401.htm) |
+
+<div align="center">
+<h3>湖南大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 暂无 | [2025年湖南大学外国语学院2026年接收推荐免试研究生（含直博生）预报名通知](https://mp.weixin.qq.com/s/fgVkeSOXm0AK1w8vJiZJwQ?scene=1&click_id=2) |
 
 <div align="center">
 <h3>重庆大学</h3>
@@ -239,9 +248,9 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-09-05 | [2025年重庆大学博雅学院（人文社会科学高等研究院）关于接收中国语言文学学科2026届本科生推免预报名工作通知](https://lac.cqu.edu.cn/info/1162/9430.htm) |
-| 2025-09-05 | [2025年重庆大学人文社会科学高等研究院博雅学院哲学学科2026届本科生推免预报名工作通知](https://lac.cqu.edu.cn/info/1162/9432.htm) |
 | 2025-09-05 | [2025年重庆大学人文社会科学高等研究院博雅学院中国史学科2026届本科生推免预报名工作通知](https://lac.cqu.edu.cn/info/1162/9433.htm) |
+| 2025-09-05 | [2025年重庆大学人文社会科学高等研究院博雅学院哲学学科2026届本科生推免预报名工作通知](https://lac.cqu.edu.cn/info/1162/9432.htm) |
+| 2025-09-05 | [2025年重庆大学博雅学院（人文社会科学高等研究院）关于接收中国语言文学学科2026届本科生推免预报名工作通知](https://lac.cqu.edu.cn/info/1162/9430.htm) |
 
 <div align="center">
 <h3>北京科技大学</h3>
@@ -258,13 +267,13 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-08-20 | [2025年上海财经大学公共管理学院2026年接收推荐免试研究生（含直博生）预报名通知](https://mp.weixin.qq.com/s/ceJaedDCMNCM2-V2A9BuFA) |
 | 2025-08-20 | [2025年上海财经大学法学院2026年接收推荐免试研究生（含直博生）预报名通知](https://mp.weixin.qq.com/s/aFchdQ-zSTTBcAlW4fugTg) |
-| 2025-08-20 | [2025年上海财经大学马克思主义学院2026年接收推荐免试研究生预报名通知](https://mp.weixin.qq.com/s/6K7FtTxeHGMsVaQyaxVUuQ) |
-| 2025-08-20 | [2025年上海财经大学人文学院2026年接收优秀应届本科毕业生免试攻读研究生预报名的通知](https://sh.sufe.edu.cn/b6/57/c3494a243287/page.htm?Ucx7U9PTU3zV=1751010531353) |
 | 2025-08-20 | [2025年上海财经大学新闻与社会高等研究院2026年接收优秀应届本科毕业生免试攻读研究生预报名的通知](https://mp.weixin.qq.com/s/9SlGd0kr9DPYg-O62ijf9Q) |
 | 2025-08-20 | [2025年上海财经大学外国语学院2026年接收优秀应届本科毕业生免试攻读研究生预报名的通知](https://sfs.sufe.edu.cn/b6/56/c3940a243286/page.htm) |
+| 2025-08-20 | [2025年上海财经大学人文学院2026年接收优秀应届本科毕业生免试攻读研究生预报名的通知](https://sh.sufe.edu.cn/b6/57/c3494a243287/page.htm?Ucx7U9PTU3zV=1751010531353) |
+| 2025-08-20 | [2025年上海财经大学公共管理学院2026年接收推荐免试研究生（含直博生）预报名通知](https://mp.weixin.qq.com/s/ceJaedDCMNCM2-V2A9BuFA) |
 | 2025-08-20 | [2025年上海财经大学国际文化交流学院2026年接收推荐免试研究生预报名通知](https://mp.weixin.qq.com/s/7_5tA2SDMUNScNKDx_EOWQ) |
+| 2025-08-20 | [2025年上海财经大学马克思主义学院2026年接收推荐免试研究生预报名通知](https://mp.weixin.qq.com/s/6K7FtTxeHGMsVaQyaxVUuQ) |
 
 <div align="center">
 <h3>南京航空航天大学</h3>
@@ -313,7 +322,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-08-16 | [2025年西南大学新闻传媒学院接收2026届推免生的预通知](https://mp.weixin.qq.com/s/1i8LzEJpIZ4FdF4rEaNs9Q?click_id=2) |
+| ~~2025-08-16~~ | [2025年西南大学新闻传媒学院接收2026届推免生的预通知](https://mp.weixin.qq.com/s/1i8LzEJpIZ4FdF4rEaNs9Q?click_id=2) |
 
 <div align="center">
 <h3>西南财经大学</h3>
@@ -321,13 +330,13 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2025-08-31 | [2025年西南财经大学马克思主义学院2026级推免生（含直博生）接收工作通知](https://yzcx.swufe.edu.cn/chaxun/yzb/tms/2026/01bm/2026tmsxz.html) |
+| 2025-08-31 | [2025年西南财经大学公共管理学院2026级接收推荐免试攻读研究生工作细则](https://spa.swufe.edu.cn/info/1041/16081.htm) |
+| 2025-08-31 | [2025年西南财经大学社会发展研究院 2026级接收推荐免试（推免生）攻读硕士学位研究生工作细则](https://sfy.swufe.edu.cn/info/1078/8559.htm) |
+| 2025-08-31 | [2025年西南财经大学法学院2026级推免生（含直博生）接收工作通知](https://lawschool.swufe.edu.cn/info/1441/74725.htm) |
 | 2025-08-31 | [2025年西南财经大学社会发展研究院2026级推免生（含直博生）接收工作通知](https://yzcx.swufe.edu.cn/chaxun/yzb/tms/2026/01bm/2026tmsxz.html) |
 | 2025-08-31 | [2025年西南财经大学外国语学院2026级推免生（含直博生）接收工作通知](https://yzcx.swufe.edu.cn/chaxun/yzb/tms/2026/01bm/2026tmsxz.html) |
-| 2025-08-31 | [2025年西南财经大学马克思主义学院2026级推免生（含直博生）接收工作通知](https://yzcx.swufe.edu.cn/chaxun/yzb/tms/2026/01bm/2026tmsxz.html) |
 | 2025-08-31 | [2025年西南财经大学公共管理学院2026级推免生（含直博生）接收工作通知](https://yzcx.swufe.edu.cn/chaxun/yzb/tms/2026/01bm/2026tmsxz.html) |
-| 2025-08-31 | [2025年西南财经大学法学院2026级推免生（含直博生）接收工作通知](https://lawschool.swufe.edu.cn/info/1441/74725.htm) |
-| 2025-08-31 | [2025年西南财经大学社会发展研究院 2026级接收推荐免试（推免生）攻读硕士学位研究生工作细则](https://sfy.swufe.edu.cn/info/1078/8559.htm) |
-| 2025-08-31 | [2025年西南财经大学公共管理学院2026级接收推荐免试攻读研究生工作细则](https://spa.swufe.edu.cn/info/1041/16081.htm) |
 
 <div align="center">
 <h3>中南财经政法大学</h3>
@@ -338,7 +347,7 @@
 | 2025-09-05 | [2025年中南财经政法大学法学院关于举办“第八届优秀本科生研招校园开放日研学活动”的通知](https://mp.weixin.qq.com/s/E9kLj0Ps5nzRFLi0_QHQIg) |
 | 2025-09-05 | [2025年中南财经政法大学纪检监察学院（国家治理学院）关于举办2025年“优秀本科生研招校园开放日研学活动”的通知](https://gjzlxy.zuel.edu.cn/2025/0726/c13954a403019/page.htm) |
 | 2025-08-17 | [2025年中南财经政法大学知识产权学院关于举办“第六届优秀本科生研招校园开放日研学活动”的通知](https://iprcn.zuel.edu.cn/zgzscqyjw-zgzscqyjw_tzgg/zgzscqyjwcn_cont_news/details-41007.html) |
-| 2025-08-15 | [2025年中南财经政法大学新闻与文化传播学院关于举办2025年优秀本科生研招校园开放日的通知](https://xwcb.zuel.edu.cn/2025/0724/c6951a402963/pagem.htm) |
+| ~~2025-08-15~~ | [2025年中南财经政法大学新闻与文化传播学院关于举办2025年优秀本科生研招校园开放日的通知](https://xwcb.zuel.edu.cn/2025/0724/c6951a402963/pagem.htm) |
 
 <div align="center">
 <h3>湖南师范大学</h3>
@@ -354,6 +363,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 暂无 | [2025年长安大学人文学院2026年接收推荐免试研究生预报名通知](https://rwxy.chd.edu.cn/info/1061/3412.htm) |
 | 暂无 | [2025年长安大学马克思主义学院2026年接收推荐免试研究生预报名通知](https://mks.chd.edu.cn/info/1119/4802.htm) |
 
 <div align="center">
@@ -370,17 +380,25 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-08-19 | [2025年中央民族大学文学院关于2026年接收推荐免试研究生（含直博生）预报名的通知](https://mp.weixin.qq.com/s/XrANMpyJiu-AGD9xlYllkA) |
 | 2025-08-19 | [2025年中央民族大学国家安全研究院关于2026年接收推荐免试研究生（含直博生）预报名的通知](https://mp.weixin.qq.com/s/mdE-X1-tqECixFb8L0LAiw) |
-| 2025-08-15 | [2025年中央民族大学中华民族共同体学院2026年接收推荐免试研究生（含直博生）预报名的通知](https://mp.weixin.qq.com/s/qQRvjxjjNOF5YsKVfpkoVA) |
-| 2025-08-15 | [2025年中央民族大学哲学与宗教学学院关于2026年接收推荐免试研究生（含直博生）预报名的通知](https://mp.weixin.qq.com/s/CREVOYTZEpJd3umbo8O8GA) |
-| 2025-08-15 | [2025年中央民族大学法学院2026年接收推荐免试研究生预报名的通知](https://mp.weixin.qq.com/s/z5q8p3poNTfWXgDhTU_rAg) |
-| 2025-08-15 | [2025年中央民族大学民族学与社会学学院关于2026年接收推荐免试研究生（含直博生）预报名的通知](https://mp.weixin.qq.com/s/GoABVTilfIa5egUvkeCKTA) |
-| 2025-08-15 | [2025年中央民族大学马克思主义学院关于接收2026年推荐免试硕士研究生预报名的通知](https://mp.weixin.qq.com/s/JyAnaJehbX4iEd-_S262VQ) |
+| 2025-08-19 | [2025年中央民族大学文学院关于2026年接收推荐免试研究生（含直博生）预报名的通知](https://mp.weixin.qq.com/s/XrANMpyJiu-AGD9xlYllkA) |
+| ~~2025-08-15~~ | [2025年中央民族大学民族学与社会学学院关于2026年接收推荐免试研究生（含直博生）预报名的通知](https://mp.weixin.qq.com/s/GoABVTilfIa5egUvkeCKTA) |
+| ~~2025-08-15~~ | [2025年中央民族大学中华民族共同体学院2026年接收推荐免试研究生（含直博生）预报名的通知](https://mp.weixin.qq.com/s/qQRvjxjjNOF5YsKVfpkoVA) |
+| ~~2025-08-15~~ | [2025年中央民族大学马克思主义学院关于接收2026年推荐免试硕士研究生预报名的通知](https://mp.weixin.qq.com/s/JyAnaJehbX4iEd-_S262VQ) |
+| ~~2025-08-15~~ | [2025年中央民族大学哲学与宗教学学院关于2026年接收推荐免试研究生（含直博生）预报名的通知](https://mp.weixin.qq.com/s/CREVOYTZEpJd3umbo8O8GA) |
+| ~~2025-08-15~~ | [2025年中央民族大学法学院2026年接收推荐免试研究生预报名的通知](https://mp.weixin.qq.com/s/z5q8p3poNTfWXgDhTU_rAg) |
 | ~~2025-08-10~~ | [2025年中央民族大学中国少数民族语言文学学院2026年接收推荐免试研究生（含直博生）预报名通知](https://mp.weixin.qq.com/s/gXfgYpAnPcipEHQ53f5uBw) |
-| ~~2025-08-10~~ | [2025年中央民族大学外国语学院2026年接收推荐免试硕士研究生预报名通知](https://mp.weixin.qq.com/s/Ak2ywlnunf6T7fF8I7-RIQ) |
-| ~~2025-08-10~~ | [2025年中央民族大学新闻与传播学院关于2026年接收推荐免试研究生（含直博生）的公告](https://mp.weixin.qq.com/s/BEIaarKSTRHttTzUMuGIKg) |
 | ~~2025-08-10~~ | [2025年中央民族大学历史文化学院关于2026年接收推荐免试研究生（含直博生）预报名的通知](https://mp.weixin.qq.com/s/7NqAZaxJW0zWCutSv8EEwg) |
+| ~~2025-08-10~~ | [2025年中央民族大学新闻与传播学院关于2026年接收推荐免试研究生（含直博生）的公告](https://mp.weixin.qq.com/s/BEIaarKSTRHttTzUMuGIKg) |
+| ~~2025-08-10~~ | [2025年中央民族大学外国语学院2026年接收推荐免试硕士研究生预报名通知](https://mp.weixin.qq.com/s/Ak2ywlnunf6T7fF8I7-RIQ) |
+
+<div align="center">
+<h3>上海海事大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-09-21 | [2025年上海海事大学外国语学院2026年接收推荐免试研究生预推免报名通知](https://cfl.shmtu.edu.cn/2025/0815/c6047a266657/page.htm) |
 
 <div align="center">
 <h3>中国科学院大学</h3>
@@ -390,8 +408,8 @@
 |:------------:|:---------|
 | 暂无 | [2025年中国科学院自然科学史研究所2026年推荐免试硕士研究生招生专业目录](https://www.ihns.ac.cn/yjsjy/zsxx/sszs/202507/t20250707_7880665.html) |
 | 2025-09-02 | [2025年中国科学院大学外语系2026年接收推荐免试生公告](https://foreign.ucas.edu.cn/zspy/sszs/a25726e8b176421688ef3e33383d45c7.htm) |
-| 2025-08-31 | [2025年中国科学院大学公共政策与管理学院2026年接收推荐免试硕士研究生（含直博生）预报名通知](https://sppm.ucas.ac.cn/index.php/zh-CN/zsgl/zsxx/3202-2026) |
 | 2025-08-31 | [2025年中国科学院科技战略咨询研究院2026年接收推荐免试硕士研究生（含直博生）预报名通知](https://casisd.cas.cn/rcpy/zsxx/sszs/202507/t20250708_7881544.html) |
+| 2025-08-31 | [2025年中国科学院大学公共政策与管理学院2026年接收推荐免试硕士研究生（含直博生）预报名通知](https://sppm.ucas.ac.cn/index.php/zh-CN/zsgl/zsxx/3202-2026) |
 | ~~2025-07-03~~ | [2025年中国科学院大学人文学院2026年接收推荐免试研究生公告](https://renwen.ucas.ac.cn/index.php/ltjz/2015-01-20-10-11-10/57031-2026) |
 
 <div align="center">
