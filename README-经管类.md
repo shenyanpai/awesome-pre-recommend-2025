@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="32" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="31" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -64,8 +64,8 @@
 |:------------:|:---------|
 | 2025-09-10 | [2025年浙江大学国际联合商学院2026年全日制专业学位项目接受推荐免试研究生招生通知](https://zibs.zju.edu.cn/2025/0728/c81951a3071866/page.htm) |
 | 2025-09-08 | [2025年浙江大学经济学院关于2026年外校推荐免试生网上申请的通知](http://www.cec.zju.edu.cn/2025/0729/c36131a3072033/page.htm) |
-| 2025-09-07 | [2025年浙江大学管理学院关于2026年接收推荐免试硕士生（含外校和本校）的通知](http://www.som.zju.edu.cn/2025/0731/c63508a3072426/page.htm) |
 | 2025-09-07 | [2025年浙江大学管理学院关于2026年接收推荐免试直博生（含外校和本校）的通知](http://www.som.zju.edu.cn/2025/0731/c63512a3072422/page.htm) |
+| 2025-09-07 | [2025年浙江大学管理学院关于2026年接收推荐免试硕士生（含外校和本校）的通知](http://www.som.zju.edu.cn/2025/0731/c63508a3072426/page.htm) |
 | 2025-09-07 | [2025年浙江大学管理学院专业会计硕士（MPAcc）项目关于2026年接收推荐免试研究生的通知](http://mba.zju.edu.cn/mpacc/admissions_det/3/5692) |
 
 <div align="center">
@@ -103,6 +103,14 @@
 | ~~2025-07-31~~ | [2025年中山大学国际金融学院2026年接收优秀应届本科毕业生推荐免试攻读研究生预报名通知](https://isbf.sysu.edu.cn/zh-hans/article/2446) |
 
 <div align="center">
+<h3>四川大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2025-09-07 | [2025年四川大学经济学院2026年接收推荐免试攻读研究生预报名通知](https://sesu.scu.edu.cn/info/1003/11762.htm) |
+
+<div align="center">
 <h3>哈尔滨工业大学</h3>
 </div>
 
@@ -122,9 +130,9 @@
 | ~~2025-07-20~~ | [2025年中国人民大学国际学院2026年推免生接收工作报名通知](http://sc.ruc.edu.cn/notices_list/notices/7109ed0cd4a0460ea51faaa42b9a2a8b.htm) |
 | ~~2025-07-10~~ | [2025年中国人民大学劳动人事学院2026年推免生接收工作报名通知](http://slhr.ruc.edu.cn/rcpy/ss/zsxx/44e198164a9e4081ba89ac18b535121a.htm) |
 | ~~2025-07-08~~ | [2025年中国人民大学商学院关于2026年接收优秀应届本科毕业生免试攻读学术型研究生的报名通知](https://www.rmbs.ruc.edu.cn/jxxm/sb/sbxxgg/42b1a19b864e4f238a3049554531e3ae.htm) |
-| ~~2025-07-08~~ | [2025年中国人民大学商学院关于2026年接收优秀应届本科毕业生免试攻读硕士专业学位项目（MPAcc/MIB/MV）的报名通知](https://rmbs.ruc.edu.cn/xwzx/tzgg/67c5758270b444d58c378238f8d57f2f.htm) |
 | ~~2025-07-08~~ | [2025年中国人民大学和平与发展学院国防经济专业2026年推免生接收工作报名通知](http://pd.ruc.edu.cn/zspy/zsxm/c8144d5e3904487eba5f5731b1e85e32.htm) |
 | ~~2025-07-08~~ | [2025年中国人民大学应用经济学院2026年推免生接收工作报名通知](http://ae.ruc.edu.cn/xwzx/tzgg/5f85f2c7dc3749daa92fe1a4e3d4f4c9.htm) |
+| ~~2025-07-08~~ | [2025年中国人民大学商学院关于2026年接收优秀应届本科毕业生免试攻读硕士专业学位项目（MPAcc/MIB/MV）的报名通知](https://rmbs.ruc.edu.cn/xwzx/tzgg/67c5758270b444d58c378238f8d57f2f.htm) |
 | ~~2025-07-07~~ | [2025年中国人民大学经济学院2026年推免生接收工作报名通知](http://econ.ruc.edu.cn/jxgl/xsxyjs/zsxb/26769ed91b264fbdb0aa9f0de8ff1744.htm) |
 | ~~2025-07-05~~ | [2025年中国人民大学财政金融学院2026年推免生接收工作报名通知 （专业学位硕士项目）](http://sf.ruc.edu.cn/sylm/gg_sy/zsgg/b7c3db7e90ea47f59430348f2b9e825d.htm) |
 | ~~2025-07-05~~ | [2025年中国人民大学财政金融学院2026年推免生接收工作报名通知 （直博项目）](http://sf.ruc.edu.cn/sylm/gg_sy/zsgg/d76cf0d3c9ef43db865d1bd921d86fde.htm) |
@@ -137,8 +145,8 @@
 |:------------:|:---------|
 | 2025-08-29 | [2025年南开大学经济与社会发展研究院关于组织接收2026级推荐免试研究生预面试的通知](https://esd.nankai.edu.cn/info/1094/4905.htm) |
 | ~~2025-08-25~~ | [2025年南开大学商学院2026年接收优秀应届本科毕业生免试攻读研究生预报名通知](https://bs.nankai.edu.cn/2025/0816/c9477a576217/page.htm) |
-| ~~2025-08-25~~ | [2025年南开大学商学院2026年接收优秀应届本科毕业生免试攻读研究生预报名通知](https://bs.nankai.edu.cn/2025/0816/c9477a576217/page.htm) |
 | ~~2025-08-25~~ | [2025年南开大学国家经济战略研究院2026年接收优秀应届本科毕业生免试攻读研究生预报名通知](https://nkise.nankai.edu.cn/info/1023/1523.htm) |
+| ~~2025-08-25~~ | [2025年南开大学商学院2026年接收优秀应届本科毕业生免试攻读研究生预报名通知](https://bs.nankai.edu.cn/2025/0816/c9477a576217/page.htm) |
 | ~~2025-08-22~~ | [2025年南开大学旅游与服务学院2026年接收优秀应届本科毕业生免试攻读研究生预报名的通知](https://tas.nankai.edu.cn/info/1071/6340.htm) |
 | ~~2025-08-21~~ | [2025年南开大学经济学院2026年预推免报名时间延长通知](https://economics.nankai.edu.cn/2025/0820/c16001a576257/page.htm) |
 | ~~2025-08-20~~ | [2025年南开大学经济学院2026年接收优秀应届本科毕业生免试攻读研究生预报名通知](https://economics.nankai.edu.cn/2025/0707/c16001a574961/page.htm) |
@@ -153,9 +161,9 @@
 |:------------:|:---------|
 | 2025-09-10 | [2025年厦门大学管理学院2026年招收推荐免试研究生预报名通知 （会计硕士、审计硕士）](https://sm.xmu.edu.cn/info/1755/57645.htm) |
 | 2025-09-10 | [2025年厦门大学管理学院关于2026年招收推荐免试研究生预报名的通知（物流工程与管理专硕）](https://sm.xmu.edu.cn/info/1895/57615.htm) |
-| ~~2025-08-25~~ | [2025年厦门大学财务管理与会计研究院2026年招收推荐免试研究生（含直博生）预报名公告](https://mp.weixin.qq.com/s/-lgraHvSF2OZeGUWRYHNVA?scene=1) |
 | ~~2025-08-25~~ | [2025年厦门大学中国能源政策研究院关于2026年推荐免试研究生（含直博生）预报名通知](https://sm.xmu.edu.cn/info/1053/57535.htm) |
 | ~~2025-08-25~~ | [2025年厦门大学管理学院2026年招收推荐免试研究生（含直博生）预报名通知（学术学位研究生）](https://sm.xmu.edu.cn/info/1053/57515.htm) |
+| ~~2025-08-25~~ | [2025年厦门大学财务管理与会计研究院2026年招收推荐免试研究生（含直博生）预报名公告](https://mp.weixin.qq.com/s/-lgraHvSF2OZeGUWRYHNVA?scene=1) |
 | ~~2025-07-04~~ | [2025年厦门大学经济学院经济学科关于2026年招收推荐免试研究生（含直博生）预报名的通知](https://wise.xmu.edu.cn/info/1851/190673.htm) |
 
 <div align="center">
@@ -188,14 +196,14 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| ~~2025-08-20~~ | [2025年上海财经大学财税投资学院2026年接收推荐免试研究生（含直博生）预报名通知](https://mp.weixin.qq.com/s/k4ff-I8R1dZhqz97p2ae_g) |
-| ~~2025-08-20~~ | [2025年上海财经大学经济学院2026年接收推荐免试研究生（含直博生）预报名通知](https://mp.weixin.qq.com/s/nTREeNOUJZ3brAv1t-J4gg) |
-| ~~2025-08-20~~ | [2025年上海财经大学信息管理与工程学院预推免工作的通知](https://mp.weixin.qq.com/s/EQ2vBp1PmjfobuAhok_ZxA) |
-| ~~2025-08-20~~ | [2025年上海财经大学会计学院2026年接收推荐免试研究生（含直博生）预报名通知](https://mp.weixin.qq.com/s/2L9G35BjNDMBl_6m5DrdLg) |
-| ~~2025-08-20~~ | [2025年上海财经大学金融学院2026年接收推荐免试研究生（含直博生）预推免报名通知](https://mp.weixin.qq.com/s/pFTkbwjuQb3b_WtZVSPRjQ) |
 | ~~2025-08-20~~ | [2025年上海财经大学滴水湖高级金融学院2026年接收推荐免试研究生预报名的通知](https://mp.weixin.qq.com/s/D8MuZXe9ctD9AnQL_TUA5A) |
-| ~~2025-08-20~~ | [2025年上海财经大学金融学院2026年接收推荐免试研究生（含直博生）预推免报名通知](https://mp.weixin.qq.com/s/pFTkbwjuQb3b_WtZVSPRjQ) |
+| ~~2025-08-20~~ | [2025年上海财经大学会计学院2026年接收推荐免试研究生（含直博生）预报名通知](https://mp.weixin.qq.com/s/2L9G35BjNDMBl_6m5DrdLg) |
 | ~~2025-08-20~~ | [2025年上海财经大学经济学院2026年接收推荐免试研究生（含直博生）预报名通知](https://mp.weixin.qq.com/s/nTREeNOUJZ3brAv1t-J4gg) |
+| ~~2025-08-20~~ | [2025年上海财经大学财税投资学院2026年接收推荐免试研究生（含直博生）预报名通知](https://mp.weixin.qq.com/s/k4ff-I8R1dZhqz97p2ae_g) |
+| ~~2025-08-20~~ | [2025年上海财经大学信息管理与工程学院预推免工作的通知](https://mp.weixin.qq.com/s/EQ2vBp1PmjfobuAhok_ZxA) |
+| ~~2025-08-20~~ | [2025年上海财经大学信息管理与工程学院预推免工作的通知](https://mp.weixin.qq.com/s/EQ2vBp1PmjfobuAhok_ZxA) |
+| ~~2025-08-20~~ | [2025年上海财经大学经济学院2026年接收推荐免试研究生（含直博生）预报名通知](https://mp.weixin.qq.com/s/nTREeNOUJZ3brAv1t-J4gg) |
+| ~~2025-08-20~~ | [2025年上海财经大学金融学院2026年接收推荐免试研究生（含直博生）预推免报名通知](https://mp.weixin.qq.com/s/pFTkbwjuQb3b_WtZVSPRjQ) |
 | ~~2025-08-20~~ | [2025年上海财经大学财税投资学院2026年接收推荐免试研究生（含直博生）预报名通知](https://mp.weixin.qq.com/s/k4ff-I8R1dZhqz97p2ae_g) |
 
 <div align="center">
@@ -254,16 +262,16 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2025-08-31 | [2025年西南财经大学智慧经济科学研究中心2026级接收优秀应届本科毕业生推荐免试攻读研究生工作细则](https://ies.swufe.edu.cn/info/1451/3101.htm) |
-| 2025-08-31 | [2025年西南财经大学经济学院2026级推免生（含直博生）接收工作通知](https://yzcx.swufe.edu.cn/chaxun/yzb/tms/2026/01bm/2026tmsxz.html) |
-| 2025-08-31 | [2025年西南财经大学财政税务学院2026级推免生（含直博生）接收工作通知](https://yzcx.swufe.edu.cn/chaxun/yzb/tms/2026/01bm/2026tmsxz.html) |
-| 2025-08-31 | [2025年西南财经大学金融学院2026级推免生（含直博生）接收工作通知](https://yzcx.swufe.edu.cn/chaxun/yzb/tms/2026/01bm/2026tmsxz.html) |
-| 2025-08-31 | [2025年西南财经大学中国金融研究院2026级推免生（含直博生）接收工作通知](https://yzcx.swufe.edu.cn/chaxun/yzb/tms/2026/01bm/2026tmsxz.html) |
-| 2025-08-31 | [2025年西南财经大学会计学院2026级推免生（含直博生）接收工作通知](https://yzcx.swufe.edu.cn/chaxun/yzb/tms/2026/01bm/2026tmsxz.html) |
-| 2025-08-31 | [2025年西南财经大学经济与管理研究院2026级推免生（含直博生）接收工作通知](https://yzcx.swufe.edu.cn/chaxun/yzb/tms/2026/01bm/2026tmsxz.html) |
-| 2025-08-31 | [2025年西南财经大学中国西部经济研究院2026级推免生（含直博生）接收工作通知](https://yzcx.swufe.edu.cn/chaxun/yzb/tms/2026/01bm/2026tmsxz.html) |
 | 2025-08-31 | [2025年西南财经大学管理科学与工程学院2026级推免生（含直博生）接收工作通知](https://yzcx.swufe.edu.cn/chaxun/yzb/tms/2026/01bm/2026tmsxz.html) |
 | 2025-08-31 | [2025年西南财经大学中国行为经济与行为金融研究中心2026级推免生（含直博生）接收工作通知](https://yzcx.swufe.edu.cn/chaxun/yzb/tms/2026/01bm/2026tmsxz.html) |
+| 2025-08-31 | [2025年西南财经大学经济与管理研究院2026级推免生（含直博生）接收工作通知](https://yzcx.swufe.edu.cn/chaxun/yzb/tms/2026/01bm/2026tmsxz.html) |
+| 2025-08-31 | [2025年西南财经大学会计学院2026级推免生（含直博生）接收工作通知](https://yzcx.swufe.edu.cn/chaxun/yzb/tms/2026/01bm/2026tmsxz.html) |
+| 2025-08-31 | [2025年西南财经大学中国西部经济研究院2026级推免生（含直博生）接收工作通知](https://yzcx.swufe.edu.cn/chaxun/yzb/tms/2026/01bm/2026tmsxz.html) |
+| 2025-08-31 | [2025年西南财经大学中国金融研究院2026级推免生（含直博生）接收工作通知](https://yzcx.swufe.edu.cn/chaxun/yzb/tms/2026/01bm/2026tmsxz.html) |
+| 2025-08-31 | [2025年西南财经大学金融学院2026级推免生（含直博生）接收工作通知](https://yzcx.swufe.edu.cn/chaxun/yzb/tms/2026/01bm/2026tmsxz.html) |
+| 2025-08-31 | [2025年西南财经大学财政税务学院2026级推免生（含直博生）接收工作通知](https://yzcx.swufe.edu.cn/chaxun/yzb/tms/2026/01bm/2026tmsxz.html) |
+| 2025-08-31 | [2025年西南财经大学经济学院2026级推免生（含直博生）接收工作通知](https://yzcx.swufe.edu.cn/chaxun/yzb/tms/2026/01bm/2026tmsxz.html) |
+| 2025-08-31 | [2025年西南财经大学智慧经济科学研究中心2026级接收优秀应届本科毕业生推荐免试攻读研究生工作细则](https://ies.swufe.edu.cn/info/1451/3101.htm) |
 
 <div align="center">
 <h3>中南财经政法大学</h3>

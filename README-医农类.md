@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="32" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2025年推免系统填报志愿（9.28）还有 <img src="./imgs/time.png" alt="31" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -96,6 +96,7 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2025-09-10 | [2025年哈尔滨工业大学生命科学和医学学部2026年接收优秀应届本科毕业生免试攻读研究生报名通知](https://life.hit.edu.cn/2025/0709/c6157a373357/page.htm) |
+| 2025-08-31 | [2025年哈尔滨工业大学（深圳）前沿学部医工学院2026年推免生报名通知](http://bme.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1079&wbnewsid=3042) |
 
 <div align="center">
 <h3>北京协和医学院</h3>
@@ -188,14 +189,22 @@
 | 2025-08-30 | [2025年北京科技大学现代农学院2026年接收推荐免试硕士研究生预报名的通知](https://nongye.ustb.edu.cn/tzgg/2c67819ba1174908bc81e2a7cf54f9d3.htm) |
 
 <div align="center">
+<h3>广州医科大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 暂无 | [2025年广州医科大学附属脑科医院2026年接收推荐免试研究生（含直博生）的预通知](https://www.gzbrain.cn/jswsxy/info.aspx?itemid=106423) |
+
+<div align="center">
 <h3>中国药科大学</h3>
 </div>
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| ~~2025-08-18~~ | [2025年中国药科大学多靶标天然药物全国重点实验室2026年接收推免生（含直博生）预报名通知](https://sklnm.cpu.edu.cn/70/ca/c13422a225482/pagem.htm) |
 | ~~2025-08-18~~ | [2025年中国药科大学国际医药商学院2026年接收推免生（含直博生）预报名的通知](https://sxy.cpu.edu.cn/70/ab/c8793a225451/pagem.htm) |
 | ~~2025-08-18~~ | [2025年中国药科大学中药学院2026年接收推免生（含直博生）预报名的通知](https://zyxy.cpu.edu.cn/70/ce/c9040a225486/page.htm) |
+| ~~2025-08-18~~ | [2025年中国药科大学多靶标天然药物全国重点实验室2026年接收推免生（含直博生）预报名通知](https://sklnm.cpu.edu.cn/70/ca/c13422a225482/pagem.htm) |
 | ~~2025-08-17~~ | [2025年中国药科大学基础医学与临床药学学院2026年接收推免生（含直博生）预报名的通知](https://bmcp.cpu.edu.cn/71/25/c469a225573/page.htm) |
 
 <div align="center">
@@ -215,12 +224,12 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 暂无 | [2025年中国农业科学院上海兽医研究所2026年接收推荐免试硕士研究生公告](https://shvri.caas.cn/zhxw/zhxwtzgg/57bcd0c771c24be6a946655aec55f70b.htm) |
 | 暂无 | [2025年中国农业科学院北京畜牧兽医研究所2026年接收推荐免试研究生（含直博生）公告](https://ias.caas.cn/xwzx/tzgg/83f8f50bb9e9411d92b660379a778631.htm) |
+| 暂无 | [2025年中国农业科学院上海兽医研究所2026年接收推荐免试硕士研究生公告](https://shvri.caas.cn/zhxw/zhxwtzgg/57bcd0c771c24be6a946655aec55f70b.htm) |
 | 2025-09-18 | [2025年中国农业科学院作物科学研究所2026年招收推荐免试研究生（含直博生）公告](http://icscaas.com.cn/xwdt/tzgg/580a0a55a5b140f29be2c4c6a9753b9a.htm) |
 | 2025-08-31 | [2025年中国农业科学院植物保护研究所2026年招收推荐免试研究生含直博生公告](http://www.ippcaas.cn/zszp/8e6182c092c941b8a7c773fa592b9920.htm) |
-| 2025-08-29 | [2025年中国农业科学院农业质量标准与检测技术研究所2026年接收推荐免试研究生公告](https://iqstap.caas.cn/tzgg/3d9d88ff93824ba283faf7e814e23133.htm) |
 | 2025-08-29 | [2025年中国农业科学院农产品加工研究所2026年接收推荐免试研究生（含直博生）公告](https://ifst.caas.cn/xwzx/tzgg/0fc02bd5a5a94a9e8869dd926d59563c.htm) |
+| 2025-08-29 | [2025年中国农业科学院农业质量标准与检测技术研究所2026年接收推荐免试研究生公告](https://iqstap.caas.cn/tzgg/3d9d88ff93824ba283faf7e814e23133.htm) |
 
 ## 📝 数据来源
 
